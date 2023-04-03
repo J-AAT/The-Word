@@ -1,6 +1,7 @@
 # **The Word**
 ## **Presentation**
-https://docs.google.com/presentation/d/1kFv8ElkS5DOaaoQwXFb90VizjtuPNiA90Po6qG7bwrc/edit?usp=sharing
+
+[JAAT Slideshow](https://docs.google.com/presentation/d/1kFv8ElkS5DOaaoQwXFb90VizjtuPNiA90Po6qG7bwrc/edit?usp=sharing)
 
 ---
 ## **SOP's**
