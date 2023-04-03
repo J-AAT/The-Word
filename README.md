@@ -1,11 +1,32 @@
 # **The Word**
+
+Welcome! Our team is working on integrating the IT systems of EnergyWise ,a recently acquired startup with our company, GlobeX. We think it's better to start from the ground up and implement infrastructure that matches GlobeX's standards instead of dealing with technical debt later on. Join us as we work to seamlessly integrate EnergyWises IT systems with GlobeX's infrastructure, ensuring a smooth and successful transition for all parties involved.
+Below you will find our resources including our project team agreement, systems we selected that were right for the job, topologies and visuals used, SOP's implemented to standardize processes, and our project slideshow.
+
+---
+## **The Convenant**
+[Team Agreement](https://docs.google.com/document/d/1aVES3ZVwh4EzQGpnUk2K1_O788iHrKfyf7oHZUNd4UI/edit?usp=sharing)
+
+--- 
+## **System Selection**
+
+[System Selection](https://docs.google.com/document/d/1CnhfsfXCUtka3dMWNtoU2KaqHpnctAMXYau3gMbxQnQ/edit?usp=sharing)
+
+---
+
+## **Topologies and Visuals**
+
+
+
+---
+
+## **SOP's**
+(https://github.com/J-AAT/The-Word/wiki/Standard-Operating-Procedures-(SOP's)
+
+---
 ## **Presentation**
 
 [JAAT Slideshow](https://docs.google.com/presentation/d/1kFv8ElkS5DOaaoQwXFb90VizjtuPNiA90Po6qG7bwrc/edit?usp=sharing)
-
----
-## **SOP's**
-(https://github.com/J-AAT/The-Word/wiki/Standard-Operating-Procedures-(SOP's)
 
 ---
 ## **Contributors and Links**
