@@ -1,6 +1,6 @@
 # **The Word**
 
-Welcome! Our team is working on integrating the IT systems of EnergyWise ,a recently acquired startup with our company, GlobeX. We think it's better to start from the ground up and implement infrastructure that matches GlobeX's standards instead of dealing with technical debt later on. Join us as we work to seamlessly integrate EnergyWises IT systems with GlobeX's infrastructure, ensuring a smooth and successful transition for all parties involved.
+Welcome! Our team is working on integrating the IT systems of EnergyWise , a recently acquired startup with our company, GlobeX. We think it's better to start from the ground up and implement infrastructure that matches GlobeX's standards instead of dealing with technical debt later on. Join us as we work to seamlessly integrate EnergyWises IT systems with GlobeX's infrastructure, ensuring a smooth and successful transition for all parties involved.
 Below you will find our resources including our project team agreement, systems we selected that were right for the job, topologies and visuals used, SOP's implemented to standardize processes, and our project slideshow.
 
 ---
