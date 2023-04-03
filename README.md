@@ -1,5 +1,9 @@
 # The-Word
 
+
+[SOP's](https://github.com/J-AAT/The-Word/wiki/Standard-Operating-Procedures-(SOP's)
+
+
 **Github Links**
 
 + https://github.com/Perryandr
