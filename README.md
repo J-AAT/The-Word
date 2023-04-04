@@ -31,7 +31,7 @@ Below you will find our resources including our project team agreement, systems 
 ---
 ## **Project Management**
 
-https://trello.com/invite/b/3iM6cJ1M/ATTI8035886b016d408b8dcf7e828854b2bf87E44F0B/low-table
+[The Cenacle](https://trello.com/invite/b/3iM6cJ1M/ATTI8035886b016d408b8dcf7e828854b2bf87E44F0B/low-table)
 
 
 ---
