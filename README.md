@@ -5,18 +5,18 @@ Below you will find our resources including our project team agreement, systems 
 
 ---
 ## **The Convenant**
-[Team Agreement](https://docs.google.com/document/d/1aVES3ZVwh4EzQGpnUk2K1_O788iHrKfyf7oHZUNd4UI/edit?usp=sharing)
++ [Team Agreement](https://docs.google.com/document/d/1aVES3ZVwh4EzQGpnUk2K1_O788iHrKfyf7oHZUNd4UI/edit?usp=sharing)
 
 --- 
 ## **System Selection**
 
-[System Selection](https://docs.google.com/document/d/1CnhfsfXCUtka3dMWNtoU2KaqHpnctAMXYau3gMbxQnQ/edit?usp=sharing)
++ [System Selection](https://docs.google.com/document/d/1CnhfsfXCUtka3dMWNtoU2KaqHpnctAMXYau3gMbxQnQ/edit?usp=sharing)
 
 ---
 
 ## **Topologies and Visuals**
 
-[Topology](https://drive.google.com/file/d/13lIcdVSzX71NsQdfBKWf1Q18nNKGL4CG/view?usp=sharing)
++ [Topology](https://drive.google.com/file/d/13lIcdVSzX71NsQdfBKWf1Q18nNKGL4CG/view?usp=sharing)
 
 ---
 
@@ -32,12 +32,12 @@ Below you will find our resources including our project team agreement, systems 
 ---
 ## **Presentation**
 
-[JAAT Slideshow](https://docs.google.com/presentation/d/1kFv8ElkS5DOaaoQwXFb90VizjtuPNiA90Po6qG7bwrc/edit?usp=sharing)
++ [JAAT Slideshow](https://docs.google.com/presentation/d/1kFv8ElkS5DOaaoQwXFb90VizjtuPNiA90Po6qG7bwrc/edit?usp=sharing)
 
 ---
 ## **Project Management**
 
-[The Cenacle](https://trello.com/invite/b/3iM6cJ1M/ATTI8035886b016d408b8dcf7e828854b2bf87E44F0B/low-table)
++ [The Cenacle](https://trello.com/invite/b/3iM6cJ1M/ATTI8035886b016d408b8dcf7e828854b2bf87E44F0B/low-table)
 
 
 ---
