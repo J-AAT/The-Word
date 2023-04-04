@@ -21,7 +21,13 @@ Below you will find our resources including our project team agreement, systems 
 ---
 
 ## **SOP's**
-(https://github.com/J-AAT/The-Word/wiki/Standard-Operating-Procedures-(SOP's)
++ [File Access] (https://github.com/J-AAT/The-Word/wiki/SOP:-File-Access)
++ [Network Security] (https://github.com/J-AAT/The-Word/wiki/SOP:-Network-Security)
++ [Network Traffic Monitoring] (https://github.com/J-AAT/The-Word/wiki/SOP:-Network-Traffic-Monitoring)
++ [Network Maintenance] (https://github.com/J-AAT/The-Word/wiki/SOP:-Network-Maintenance)
++ [Offboarding Employees] (https://github.com/J-AAT/The-Word/wiki/SOP:-Offboarding-Employees)
++ [Onboarding Employees] (https://github.com/J-AAT/The-Word/wiki/SOP:-Onboarding-Employees)
++ [OS Version Control] (https://github.com/J-AAT/The-Word/wiki/SOP:-OS-Version-Control)
 
 ---
 ## **Presentation**
