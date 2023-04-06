@@ -17,7 +17,7 @@ Below you will find our resources including our project team agreement, systems 
 ## **Topologies and Aides**
 
 + [Topology](https://drive.google.com/file/d/13lIcdVSzX71NsQdfBKWf1Q18nNKGL4CG/view?usp=sharing)
-
++ [Topology Write Up](https://github.com/J-AAT/The-Word/wiki/Aides)
 ---
 
 ## **SOP's**
