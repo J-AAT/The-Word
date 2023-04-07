@@ -34,6 +34,10 @@ Below you will find our resources including our project team agreement, systems 
 
 + [JAAT Slideshow](https://github.com/J-AAT/The-Word/wiki/Presentation)
 
+## **Scripts**
+
++ https://github.com/J-AAT/Scripts
+
 ---
 ## **Contributors and Links**
 | Name     | Linkedin       | Github | 
