@@ -16,7 +16,8 @@ Below you will find our resources including our project team agreement, systems 
 
 ## **Topologies and Aides**
 
-+ [Topology](https://github.com/J-AAT/The-Word/wiki/Topology)
++ [Topology](https://github.com/J-AAT/The-Word/wiki/Topology) 
+    + Timestamp 54:00
 + [Topology Write Up](https://github.com/J-AAT/The-Word/wiki/Topology-Writeup)
 ---
 
