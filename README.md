@@ -31,6 +31,7 @@ Below you will find our resources including our project team agreement, systems 
 
 ---
 ## **Presentation**
++ [Presentation Day Video](https://zoom.us/rec/share/qiSFyl7360aq1KoH6BSE6CII9CaNjo4et-h73XOPtBcSRfDYzCH39aPeKCYrt5jt.ww_I0Ino4KIhyvx7)
 
 + [JAAT Slideshow](https://github.com/J-AAT/The-Word/wiki/Presentation)
 
