@@ -36,7 +36,7 @@ Below you will find our resources including our project team agreement, systems 
 
 ## **Scripts**
 
-+ [ADDS Automation Script](https://github.com/J-AAT/Scripts)
++ [Scripts Repo](https://github.com/J-AAT/Scripts)
 
 ---
 ## **Contributors and Links**
